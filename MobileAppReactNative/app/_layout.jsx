@@ -42,3 +42,4 @@ const RootLayout = () => {
 export default function App() {
   return <RootLayout />;
 }
+
